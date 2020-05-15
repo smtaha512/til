@@ -10,4 +10,4 @@ A repo inspired by [jbranchaud/til](https://github.com/jbranchaud/til/). This is
 
 ### Git
 
-- [Delete a local branch](git/delete-local-branch)
+- [Delete a local branch](git/delete-local-branch.md)
